@@ -1,0 +1,76 @@
+/*
+Theme Name: PPTQ Child
+Theme URI: https://pptqmiftahulkhoir.id/
+Template: pptq
+Author: Fathan Fisabilillah
+Author URI: https://fathanfi.com/
+Description: PPTQ Miftahul Khoir Studio, Membangun generasi pecinta Al Qur'an, tahfidz quran, penghafal qur'an
+Version: 1.0.0.0-2.0.0.0
+Updated: 2022-10-18 09:57:46
+
+*/
+
+@import url("gf_css.css");
+
+.css-ad6qf7 {
+	font-size: 3rem;
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-family: 'Inter',sans-serif;
+    font-weight: bold;
+    line-height: 1.33;
+    display: block;
+    color: var(--theme-ui-colors-heading,#2d3748);
+    font-weight: 900;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    margin-bottom: 1rem;
+    background: linear-gradient( 45deg, var(--theme-ui-colors-alpha,#667eea) 32.5%, var(--theme-ui-colors-betaDark,#805ad5) 50.5%);
+    color: var(--theme-ui-colors-beta,#9f7aea);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+}
+
+.css-137p3xr {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    z-index: 0;
+    top: -150px;
+    right: 15%;
+    /*background-image: url(https://pptqmiftahulkhoir.id/wp-content/uploads/2022/10/pptq-background-logo.png);
+    background-repeat: no-repeat;
+    background-position: top right;*/
+}
+
+.css-w5pwa2 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    position: relative;
+    z-index: 2;
+    padding-bottom: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+@media only screen and (max-width: 600px) {
+  .css-ad6qf7 {
+    font-size: 1.875rem;
+  }
+}
